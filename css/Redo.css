@@ -1,0 +1,14 @@
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Optional: Centers content vertically within the viewport */
+}
+.anta-regular {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+section.lead-image a img {
+    border: none; /* Remove border from linked image */
+}
