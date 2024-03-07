@@ -12,3 +12,21 @@
 section.lead-image a img {
     border: none; /* Remove border from linked image */
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.font-size {
+    font-size: 555px ;
+}
+.font-weight {
+    font-weight: 800px;
+}
+.font-color {
+    color: #FF0000;
+}
+.text-align-center {
+    text-align: center;
+}
