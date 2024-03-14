@@ -30,3 +30,17 @@ body{
 .text-align-center {
     text-align: center;
 }
+h1 {
+    font-family: "Playfair Display", serif;
+}
+p { 
+    font-family: "Roboto", sans-serif;
+}
+h3{
+     font-family: "Anta", sans-serif;
+}
+nav a {
+    font-family: "Anta", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
