@@ -9,9 +9,6 @@
   font-weight: 400;
   font-style: normal;
 }
-section.lead-image a img {
-    border: none; /* Remove border from linked image */
-}
 body{
     display: flex;
     justify-content: center;
@@ -43,4 +40,14 @@ nav a {
     font-family: "Anta", sans-serif;
     text-decoration: none;
     text-transform: uppercase;
+}
+.lead-image {
+    display: flex;
+    justify-content: center;
+}
+.lead-image img {
+    margin: 0 auto;
+    object-fit: contain ;
+    max-width: 100%; 
+    border: none; /* Remove border from linked image */
 }
