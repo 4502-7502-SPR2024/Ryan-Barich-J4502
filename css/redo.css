@@ -177,3 +177,16 @@ ul {
         background: #fff;
     }
 }
+/* .text-holder class for location list page */
+.location-list .text-holder {
+  width: 100%;
+}
+
+/* .location-holder class with same properties as .media-holder */
+.location-holder {
+  /* Copy properties from .media-holder */
+  /* Example properties */
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
